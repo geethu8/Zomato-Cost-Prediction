@@ -1,6 +1,8 @@
 # Zomato-Cost-Prediction
-Zomato-Cost-Prediction
+#Zomato-Cost-Prediction
 Supervised Learning - Regression
+
+
 Project Objective:
 To develop a predictive model that estimates the cost for two guests at a time, so that recently opened and prospective restaurants will know how much money to invest in other stuff like ambiance and customer service
 
